@@ -1,0 +1,168 @@
+[
+    {
+      "imagen": "condiciones/lesion_espinal@2x.png",
+      "nombre": "Lesión espinal o lesión medular",
+      "sintomas": "Problemas para moverse las extremidades, sentir, orinar, defecar; tener dolor en las piernas; tener dolor en el cuello; tener el cuello dormido; tener toque eléctrico en el cuello.",
+      "causas": "Accidentes de tránsito; balas; caídas; de nacimiento. ",
+      "categoria": "fisica",
+      "preclinico": "Cambiar de posición cada 30 minutos para evitar úlceras de presión. Por ejemplo, moverse de acostado en la cama a sentado en la silla. • Utilizar una dona debajo del coxis también para evitar úlceras de presión. Se puede hacer una dona en la casa con sábanas y tape. • Realizar movilizaciones de las articulaciones que no tienen fuerza 2 veces al día, todos los días. • No utilizar ropa apretada, no exponerse al calor o frío intensos. • Si ya confirmó la deficiencia y presenta dolor de cabeza intenso, sudoración, escalofríos debe: retirar ropa apretada, ver que haya podido orinar o defecar y sentarlo. Consultar con un médico para un diagnóstico y un plan de tratamiento."
+    },
+    {
+      "imagen": "condiciones/paralisis_cerebral@2x.png",
+      "nombre": "Parálisis cerebral",
+      "sintomas": "Problemas para caminar, realizar movimientos finos, comer, hablar;6 tener déficit cognitivo; tener déficit psicomotor; tener problemas para oír y ver.",
+      "causas": "De nacimiento; nacimiento prematuro; nacimiento grande; falta de nutrición adecuada; infecciones repetitivas; infecciones repetidas durante el embarazo.",
+      "categoria": "fisica",
+      "preclinico": "Cambiar de posición cada hora para evitar úlceras de presión. Promover traslados, por ejemplo de la cama a la silla a parado de pie. • Movilizar cada articulación. Por ejemplo, el tobillo, la rodilla, la cadera, la muñeca, el codo, y el hombro. 3 veces por día, 7 días de la semana. • Estimulación cognitiva en base a la edad de la persona. 2 veces por día, 5 días a la semana. • Estimulación visual. Por ejemplo, objetos de colores o luces de colores, desde los más pequeños hasta los más grandes. 2 veces por día, 5 días a la semana. • Estimulación auditiva. Por ejemplo, sonidos de familiares, sonidos de bajo y alto tono, sonido de palmadas. 2 veces por día, 5 días de la semana. • Estimulación de desarrollo: estimular movimiento de cuello, estimular que se de vuelta. • Higiene bronquial: colocarlo acostado de lado y con la palma como guacalito dar palmadas suaves en la espalda de abajo hacia arriba 10 veces y luego colocarlo acostado del otro lado y hacer lo mismo. • Consultar con un médico para un diagnóstico y un plan de tratamiento."
+    },
+    {
+      "imagen": "condiciones/espina_bifida@2x.png",
+      "nombre": "Espina bífida",
+      "sintomas": "Problemas para mover las extremidades, sentir, orinar, defecar;8 tener un lunar peludo al final de la columna; tener dolor en las piernas.",
+      "causas": "De nacimiento; condiciones del embarazo, como la falta de ácido fólico o la exposición a drogas en la mama.",
+      "categoria": "fisica",
+      "preclinico": "Para prevenir: Mujeres embarazadas deben tomar ácido fólico durante el primer trimestre del embarazo en lo posible 3 meses antes del embarazo. • Para tratar: Consultar con un médico pediatra lo antes posible para averiguar la posibilidad de realizar una cirugía correctiva. Niños con deficiencia:  Movilizar articulaciones sin fuerza. Por ejemplo caderas,\r\nrodillas, tobillos y pies. Cambiar posturas cada dos horas al día. Por ejemplo: acostado boca arriba, de lado y sentado."
+    },
+    {
+      "imagen": "condiciones/amputacion@2x.png",
+      "nombre": "Amputación",
+      "causas": "Diabetes mal controlada; accidentes de tránsito; cáncer del hueso; de nacimiento.",
+      "categoria": "fisica",
+      "preclinico": "• Curar la herida de la amputación en el muñón según las indicaciones médicas • Vendar el muñón con un vendaje elástico en una figura de 8. Todo el día, todos los días de la semana. Retirar vendaje al bañarse. • Masajear el muñón con las manos, usando movimientos redondas. 2 veces por día, todos los días de la semana. • Estimulación del muñón con diferentes texturas alrededor de la cicatriz del muñón. 2 veces por día, todos los días de la semana. • Realizar ejercicios de fuerza en la pierna, los brazos y muñon. • Verse en un espejo o crear y observar su sombra en el sol. 2 veces por día, todos los días de la semana. • Realizar ejercicios de equilibrio con apoyo de muletas 3 veces al día, todos los días. • Cuidados de postura. Por ejemplo: Acostarse boca abajo 10-15 minutos 4 veces al día, todos los días. colocar el muñón pegado a la pierna cuando esté acostado."
+    },
+    {
+      "imagen": "condiciones/pie_equiovaro@2x.png",
+      "nombre": "Pie equinovaro",
+      "causas": "De nacimiento; condiciones del embarazo, como falta de líquido amniótico; afecta más a los hombres que a las mujeres.",
+      "categoria": "fisica",
+      "preclinico": "• Inmovilizar la articulación del tobillo de forma circular. Se puede hacer con un cartón y una venda. Dormir con el inmovilizador. • Movilizar el tobillo y pie, con la palma de la mano en la planta del pie empujar hacia arriba y adentro sostener 15 segundos. Repetir 10 veces 3 veces al día, todos los días. • Meter el pie afecto en un guacal de frijol o arroz, presionar por 5 segundos, y descansar por 2 segundos. 3 series de 10 repeticiones, 2 veces por día, todos los días de la semana. • Consultar con un médico traumatólogo durante los primeros 10 días después de nacer."
+    },
+    {
+      "imagen": "condiciones/escleriosis_mulitple@2x.png",
+      "nombre": "Esclerosis Múltiple",
+      "sintomas": "Entumecimiento o hormigueo, problemas para caminar, ver, hablar, pensar;11 tener debilidad en las piernas; tener brazos pesados; dificultad para sostener objetos; tener periodos cortos de pérdida de vista o visión borrosa y dificultad para tragar.",
+      "causas": "De nacimiento.",
+      "categoria": "fisica",
+      "preclinico": "Anotar dudas y avances de la condición, realizar exámenes y evaluación con un médico neurólogo, llevar un estilo de vida saludable.12 • Cambiar de posición cada hora para evitar úlceras de presión. Promover traslados, por ejemplo de la cama a la silla a parado de pie. • Movilizar cada articulación. Por ejemplo, el tobillo, la rodilla, la cadera, la muñeca, el codo, y el hombro. 1 serie de 8-10 repeticiones, 1 vez por día, 3 días de la semana. • Practicar movimientos gruesos. Por ejemplo, subir gradas, cambiar terrenos, superar obstáculos, etc. • Practicar movimientos finos. Por ejemplo, sacar arroz y colocar en un recipiente, hacer chibolitas de papel China, hacer bolitas de plasticina. • Consultar con un médico para un diagnóstico y un plan de tratamiento."
+    },
+    {
+      "imagen": "condiciones/glaucoma@2x.png",
+      "nombre": "Glaucoma",
+      "sintomas": "Dolor en el ojo; ojo rojo; disminución de la visión. También puede que no haya síntomas.",
+      "causas": "Tener más de 50 años de edad; tener miopía; tener diabetes; tener hipertensión.",
+      "categoria": "visual",
+      "preclinico": "• Recordar la fecha de inicio de síntomas. • Indagar sobre antecedentes familiares. • Consultar con un médico para un diagnóstico y un plan de tratamiento. • Llevar un chequeo médico cada cuatro meses. • No omitir medicamentos recetados; no automedicarse, no utilizar gotas con esteroides."
+    },
+    {
+      "imagen": "condiciones/lesion_ocular@2x.png",
+      "nombre": "Lesión ocular",
+      "sintomas": "Dolor en el ojo; sensibilidad a la luz; sensación de basura en el ojo; ojo rojo; secreción del ojo; disminución de la visión; lágrimas en los ojos; herida visible.",
+      "causas": "Agricultores; operadores de maquinaria; amas de casa; mecánicos; niños.",
+      "categoria": "visual",
+      "preclinico": "• Cubrir el ojo afectado con un vaso de duroport y sostenerlo alrededor del ojo. • No aplicar gotas en el ojo. • No parchar el ojo. • Consultar con un médico para un diagnóstico y un plan de tratamiento."
+    },
+    {
+      "imagen": "condiciones/retinopatia_diabetica@2x.png",
+      "nombre": "Retinopatía diabética",
+      "sintomas": "Disminución progresiva de la visión; dolor en el ojo en casos severos.",
+      "causas": "Tener diabetes mal controlada o tener diabetes por más de 10 años; tener diabetes tipo 1; tener hipertensión; tener colesterol alto.",
+      "categoria": "visual",
+      "preclinico": "• Llevar un buen control de diabetes. • Consultar con un médico para un diagnóstico y un plan de tratamiento. • Llevar un chequeo médico dos veces al año. • No omitir medicamentos recetados, incluyendo la insulina si fue recetado por el médico; no automedicarse. • Mantener una buena comunicación con el médico."
+    },
+    {
+      "imagen": "condiciones/catarata@2x.png",
+      "nombre": "Catarata",
+      "sintomas": "Visión nublada; mala visión en las noches; distorsión de la visión con luces fuertes; disminución de la visión; percepción alterada de colores; dificultad para leer. Esta condición no se nota a simple vista.",
+      "causas": "Tener diabetes; tener más de 60 años de edad; sufrir golpes en los ojos; tener glaucoma; haber tenido cirugías en los ojos; uso de esteroides; haber tenido enfermedades desde el nacimiento.",
+      "categoria": "visual",
+      "preclinico": "• Consultar con un médico para un diagnóstico y un plan de tratamiento nomás nota algunos síntomas. • No automedicarse. • Llevar un buen control de diabetes e hipertensión."
+    },
+    {
+      "imagen": "condiciones/degeneracion_macular@2x.png",
+      "nombre": "Degeneración macular",
+      "sintomas": "Alteración de los colores; visión borrosa o distorsionada; visión central alterada; dificultad para leer.",
+      "causas": "Tener más de 50 años de edad; tener una mala alimentación; fumar; tener colesterol alto; tener hipertensión; haber tenido cirugías en los ojos.",
+      "categoria": "visual",
+      "preclinico": "• No automedicarse. • Llevar una dieta saludable con vegetales verdes, pescado, semillas, y frutos secos. • No fumar. • Usar lentes oscuros. • Llevar un buen control de diabetes e hipertensión. • Consultar con un médico para un diagnóstico y un plan de tratamiento."
+    },
+    {
+      "imagen": "condiciones/degeneracion_macular@2x.png",
+      "nombre": "Desprendimiento de retina",
+      "sintomas": "No existe dolor en el ojo; ver lucecitas o luces fuertes; ver ‘mosquitos’ (hilos o partículas que se mueven); ver nublado o humo; pérdida total o parcial de la visión.",
+      "causas": "Jóvenes activos; deportes de contacto; golpes en los ojos o en la cabeza; familiares que han padecido de ceguera o desprendimiento de retina; tener miopía; haber tenido cirugías en los ojos; tener diabetes; haber tenido otras enfermedades desde el nacimiento.",
+      "categoria": "visual",
+      "preclinico": "• Consultar con un médico para un diagnóstico y un plan de tratamiento nomás nota algunos síntomas. • No automedicarse. • No realizar esfuerzo físico. • Llevar un buen control de la diabetes."
+    },
+    {
+      "imagen": "condiciones/perdida_auditiva_conductiva@2x.png",
+      "nombre": "Pérdida auditiva conductiva",
+      "sintomas": "Hablar con un volumen alto; solicitar a otras personas que se le hablen más recio de lo normal; escuchar zumbidos o “chicharras”; disminución de audición; escuchar pero no entender lo que le están diciendo.",
+      "causas": "Tener otoesclerosis (más frecuente en mujeres); de nacimiento; tapón de cera que se forma en el oído.",
+      "categoria": "auditiva",
+      "preclinico": "• Nunca insertar objetos al oído. • Consultar con un médico para revisar el oído, realizar un estudio de audición, y averiguar la posibilidad de realizar una cirugía correctiva y colocación de una prótesis."
+    },
+    {
+      "imagen": "condiciones/perdida_auditiva_nuerosensorial@2x.png",
+      "nombre": "Pérdida auditiva neurosensorial",
+      "sintomas": "Hablar con un volumen alto; solicitar a otras personas que se le hablen más recio de lo normal; escuchar zumbidos o “chicharras”; disminución de audición; escuchar pero no entender lo que le están diciendo. Niños que se atrasan en empezar a hablar.",
+      "causas": "De nacimiento; tapón de cera que se forma en el oído; exponerse a un ruido severamente fuerte; laborar en un lugar con ruidos muy altos; ingerir medicamentos tóxicos al oído.",
+      "categoria": "auditiva",
+      "preclinico": "• Nunca insertar objetos al oído. • No exponerse a ruidos fuertes. • Consultar con un médico para revisar el oído, realizar un estudio de audición, y averiguar la posibilidad de utilizar un aparato auditivo."
+    },
+    {
+      "imagen": "condiciones/perdida_auditiva_mixta@2x.png",
+      "nombre": "Pérdida auditiva mixta",
+      "sintomas": "Hablar con un volumen alto; solicitar a otras personas que se le hablen más recio de lo normal; escuchar zumbidos o “chicharras”; disminución de audición; escuchar pero no entender lo que le están diciendo. Niños que se atrasan en empezar a hablar.",
+      "causas": "Tener otoesclerosis (más frecuente en mujeres); de nacimiento; tapón de cera que se forma en el oído; exponerse a un ruido severamente fuerte; laborar en un lugar con ruidos muy altos; ingerir medicamentos tóxicos al oído.",
+      "categoria": "auditiva",
+      "preclinico": "• Nunca insertar objetos al oído. • No exponerse a ruidos fuertes. • Consultar con un médico para revisar el oído, realizar un estudio de audición, y averiguar la posibilidad de utilizar un aparato auditivo y cirugía correctiva."
+    },
+    {
+      "imagen": "condiciones/sindrome_de_down@2x.png",
+      "nombre": "Síndrome de Down",
+      "sintomas": "Tener ojos rasgados; tener una nariz pequeña; tener una lengua grande; tener orejas pequeñas y redondas; dedo gordo muy separado de dedo gordo; tener cuello corto. No se forma la figura “M” con las líneas en la palma de las manos.",
+      "causas": "De nacimiento; embarazo en mujeres mayores de 35 años.",
+      "categoria": "cognitiva",
+      "preclinico": "• Estimulación visual. Por ejemplo, mostrar objetos de colores, desde los más pequeños hasta los más grandes. 1 vez por día, todos los días de la semana. • Estimulación auditiva. Por ejemplo, tocar sonidos de familiares, sonidos de bajo tono, sonido de palmadas y chinchines. 1 vez por día, todos los días de la semana. • Estimulación táctil. Por ejemplo masaje y pasar texturas diferentes en brazos y piernas, colocar objetos en las manos para mejorar la toma de cosas. • Mucha actividad física. Por ejemplo, bailar, brincar, cuerda. • Practicar movimientos finos. Por ejemplo, sacar arroz y colocar en un recipiente, hacer chibolitas de papel China, hacer bolitas de plasticina. • Consultar con un médico pediatra y averiguar la necesidad de tratar problemas del corazón, gástricos y de la tiroides."
+    },
+    {
+      "imagen": "condiciones/autismo@2x.png",
+      "nombre": "Autismo",
+      "sintomas": "Problemas para interactuar con otras personas, comportamientos repetitivos;25 no pronunciar palabras después de 1 año de edad; faltar la imaginación; jugar con tierra; ordenar las cosas por tamaño y colores; no imitar; no hacer contacto visual; agresividad; cambio repentino en rutinas provocan malestar; tener intereses limitados; poca flexibilidad. En adultos, disfuncionalidad en la comunicación e interacción con los demás; problemas en interpretar las expresiones en las caras de los demás.",
+      "causas": "De nacimiento; nacimiento prematuro; condiciones del embarazo, por ejemplo fuma la mama.",
+      "categoria": "cognitiva",
+      "preclinico": "• Estimulación visual. Por ejemplo, objetos pequeños y grandes. 2 veces por día, todos los días de la semana. • Estimulación auditiva. Por ejemplo, música, videos. 2 veces por día, todos los días de la semana. • Estimulación con texturas en manos. Por ejemplo: granos de arroz, algodón, masa, plastilina etc. • Estimulación con comidas de diferentes texturas una a la vez. Por ejemplo: papillas, verduras cocidas, gelatina, licuados de frutas, frutas (banano, piña, sandía, moras, etc). • Consultar con un psicólogo, pediatra, y psiquiatra para tratar la condición de una forma integral."
+    },
+    {
+      "imagen": "condiciones/alzheimer@2x.png",
+      "nombre": "Alzheimer",
+      "sintomas": "Problemas con la memoria, particularmente en gente de mayor edad; olvidar de eventos recientes pero recordar eventos pasados; olvidar de los nombres de objetos cotidianos; cambiar de ánimo; aislarse socialmente; perderse en lugares que deberían de conocer; tener problemas para dormir",
+      "causas": "Hereditario; tener más de 60 años de edad; en hombres y mujeres.",
+      "categoria": "cognitiva",
+      "preclinico": "• Aprendizaje cognitivo. Por ejemplo, rompecabezas, sudoku, crucigramas, juegos de memoria, lotería. 2x por día, después de levantarse y antes de dormirse, todos los días. • Estimulación visual. Por ejemplo, nombrar objetos correspondientes a diferentes colores, memoria de corto plazo con imágenes. 2x por día, después de levantarse y antes de dormirse, todos los días. • Estimulación auditiva. Por ejemplo, nombrar el tipo de música basado en el ritmo. 2x por día, después de levantarse y antes de dormirse, todos los días. • Practicar actividades básicas de la vida diaria. Por ejemplo, ubicar y sacar platos de la cocina para servirse. • Realizar tarjetas de recordatorios de actividades o eventos importantes. • Consultar con un médico general, neurólogo, y psicólogo para tratar la condición de forma integral."
+    },
+    {
+      "imagen": "condiciones/intelectual_leve@2x.png",
+      "nombre": "Discapacidad Intelectual Leve",
+      "sintomas": "Problemas para hablar, caminar, compartir con otros niños, leer y escribir, memoria, poner atención, seguir instrucciones; caerse frecuentemente; no poder sostener objetos, enojarse fácilmente; impulsividad. Problemas al razonar, solucionar problemas, planificar, diferenciar entre lo bueno y lo malo, diferenciar entre lo concreto y lo abstracto. Necesitar ayuda en tareas básicas, como cocinar, manejar dinero, y transportarse.",
+      "causas": "De nacimiento; nacimiento prematuro; condiciones del parto, como no tener suficiente oxígeno; embarazo en mama malnutrida; tener infecciones graves como meningitis.",
+      "categoria": "cognitiva",
+      "preclinico": "• Aprendizaje cognitivo. Por ejemplo, rompecabezas, tarjetas de animales, objetivos, juegos de memoria, clasificación de objetos. 1x por día, 3 días por semana. • Estimulación visual. Por ejemplo, nombrar objetos correspondientes a diferentes colores, memoria de corto plazo con imágenes. 1x por día, 3 días por semana. • Estimulación auditiva. Por ejemplo, nombrar el tipo de música basado en el ritmo. 1x por día, 3 días por semana. • Practicar actividades básicas de la vida diaria. Por ejemplo ubicar y sacar platos de la cocina para servirse. • Practicar para reducir la alteración de la conducta. • Consultar con un psicólogo, psiquiatra, y psicopedagogo para tratar de forma integral."
+    },
+    {
+      "imagen": "condiciones/hidrocefalia@2x.png",
+      "nombre": "Hidrocefalia",
+      "sintomas": "Tener cabeza grande; tener mollera grande; tener ojos medio cerrados (entre abiertos); vómitos; llanto constante.",
+      "causas": "De nacimiento; infección en el cerebro.",
+      "categoria": "cognitiva",
+      "preclinico": "• Movilizar cada articulación. Por ejemplo, el tobillo, la rodilla, la cadera, la muñeca, el codo, y el hombro. 2 veces por día, 3 días por semana. • Colocar almohadas para que quede elevada la cabeza a un ángulo de 45° para dormir y 90 grados para estar en sus actividades. Tratar que no esté mucho tiempo acostado. • Estimulación visual. Por ejemplo, mostrar objetos de colores, desde los más pequeños hasta los más grandes. 2 veces por día, todos los días de la semana. • Estimulación auditiva. Por ejemplo, tocar diferentes sonidos de cerca al oído a una distancia promedio. 2 veces por día, todos los días de la semana. • Estimulación cognitiva. Por ejemplo, pasar texturas finas y gruesas a las palmas de manos y las plantas de los pies. 2 veces por día, todos los días de la semana. • Consultar con un médico para un diagnóstico y un plan de tratamiento."
+    },
+    {
+      "imagen": "condiciones/microcefalia@2x.png",
+      "nombre": "Microcefalia",
+      "sintomas": "Tener una cabeza pequeña; no tener mollera. Para niños de 1 año: Retraso en el desarrollo, como los movimientos, poder hablar. Para niños de edad pre-escolar: Problemas para leer, escribir, matemáticas.",
+      "causas": "De nacimiento; infecciones en la mama durante el embarazo, por ejemplo Zika, toxoplasmosis.",
+      "categoria": "cognitiva",
+      "preclinico": "• Manejos de traslados bajos, Por ejemplo, cambios de posición, estimulación para que sostenga la cabeza y se dé la vuelta. • Movilizar cada articulación. Por ejemplo el tobillo, la rodilla, la cadera, la muñeca, el codo, y el hombro. 2 veces por día, 3 días por semana. • Estimulación visual. Por ejemplo, mostrar objetos de colores, desde los más pequeños hasta los más grandes. 2 veces por día, todos los días de la semana. • Estimulación auditiva. Por ejemplo, tocar diferentes sonidos de cerca al oído a una distancia promedio. 2 veces por día, todos los días de la semana. • Estimulación cognitiva. Por ejemplo, pasar texturas finas y gruesas a las palmas de las manos y las plantas de los pies. 2 veces por día, todos los días de la semana. • Consultar con un médico pediatra para un diagnóstico y un plan de tratamiento."
+    }
+  ]

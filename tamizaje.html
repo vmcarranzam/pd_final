@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css" >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tamizaje</title>
+    
+</head>
+
+<body>
+    <!DOCTYPE html>
+    <html lang="en">
+    
+    <head>
+        <meta charset="UTF-8">
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+            rel="stylesheet">
+        <link rel="stylesheet" href="style.css" >
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Conectando Capacidades</title>
+        
+    </head>
+    
+    <body>
+        <!-- Floating Burger Menu -->
+        <div class="off-screen-menu">
+            <ul>
+                <li>
+                    <a href="index.html" class="no-style">Página Principal</a>
+                </li>
+                <li>
+                    <a href="condiciones.html" class="no-style">Condiciones</a>
+                </li>
+                <li>
+                    <a href="directorio.html" class="no-style">Directorio</a>
+                </li>
+                <li>
+                    <a href="tamizaje.html" class="no-style">Tamizaje</a>
+                </li>
+            </ul>
+        </div>      
+        <nav>
+            <div class="ham-menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </nav>
+    <section id="tam" class="section"></section>
+    <div class="welcome-screen">
+        <h1 class="header-welcome">¡Te damos la bienvenida!</h1>
+        <p><br>Este tamizaje te ayudará a determinar si una persona podría tener una o más deficiencias. <br>
+            Pregunta y observa a la persona, tomando en cuenta las preguntas en el siguiente cuestionario.<br>
+            En base a las respuestas, se te proporcionará información para que puedas aprender más sobre la posible <br>
+            deficiencia, y las condiciones, causas, manejo, y servicios. <br><br>
+            Presiona el botón para comenzar.</p>
+        <button class="start-button">Comenzar</button>
+    </div>
+
+    <!-- Questionnaire Container -->
+    <div class="question-container">
+        <!-- Question Screens -->
+        <div class="question-screen active">
+            <h2>¿Tiene mucha dificultad para hablar o comunicarse?</h2>
+            <div class="button-container">
+                <button class="response-button yes">Sí</button>
+                <button class="response-button no">No</button>
+            </div>
+            <img src="question1.png" alt="Question 1 Image" class="question-image"> <!-- Replace src with the actual image URL -->
+        </div>
+        <div class="question-screen">
+            <h2>¿Tiene mucha dificultad para recordar o concentrarse?</h2>
+            <div class="button-container">
+                <button class="response-button yes">Sí</button>
+                <button class="response-button no">No</button>
+            </div>
+            <img src="question2.png" alt="Question 2 Image" class="question-image"> <!-- Replace src with the actual image URL -->
+        </div>
+        <div class="question-screen">
+            <h2>¿Tiene mucha dificultad con su cuidado personal?</h2>
+            <div class="button-container">
+                <button class="response-button yes">Sí</button>
+                <button class="response-button no">No</button>
+            </div>
+            <img src="question3.png" alt="Question 3 Image" class="question-image"> <!-- Replace src with the actual image URL -->
+        </div>
+        <div class="question-screen">
+            <h2>¿Tiene mucha dificultad para ver?</h2>
+            <div class="button-container">
+                <button class="response-button yes">Sí</button>
+                <button class="response-button no">No</button>
+            </div>
+            <img src="question4.png" alt="Question 1 Image" class="question-image"> <!-- Replace src with the actual image URL -->
+        </div>
+        <div class="question-screen">
+            <h2>¿Tiene mucha dificultad para escuchar?</h2>
+            <div class="button-container">
+                <button class="response-button yes">Sí</button>
+                <button class="response-button no">No</button>
+            </div>
+            <img src="question1.png" alt="Question 1 Image" class="question-image"> <!-- Replace src with the actual image URL -->
+        </div>
+        <div class="question-screen">
+            <h2>¿Tiene mucha dificultad para sentarse, pararse, caminar o subir escalones?</h2>
+            <div class="button-container">
+                <button class="response-button yes">Sí</button>
+                <button class="response-button no">No</button>
+            </div>
+            <img src="question2.png" alt="Question 1 Image" class="question-image"> <!-- Replace src with the actual image URL -->
+        </div>
+       
+        <!-- Add more questions as needed -->
+
+    </div>
+
+    <button class="button-return-home">
+        <span>
+        <a href="tamizaje.html" target="_self" class="no-style">
+            <img src="return.png" alt="boton de regreso a página principal">
+        </a>
+        </span>
+    </button>
+
+    <!-- Progress Bar -->
+    <div class="progress-container">
+    <div class="progress"></div>
+    </div>
+    <!-- Animated Circle -->
+    <div class="animated-circle"></div>
+
+    <script src="cuestionario.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

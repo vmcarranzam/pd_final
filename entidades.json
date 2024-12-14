@@ -1,0 +1,267 @@
+ [
+    {
+      "nombre": "ADISA",
+      "direccion": "Santiago Atitlán, Sololá",
+      "telefono": "77217919",
+      "email": "adisasalud@gmail.com",
+      "logo": "entidades/adisa.png",
+      "categorias": ["fisica"]
+    },
+    {
+      "nombre": "ADISA",
+      "direccion": "Cantón Tzanchicham, Santiago Atitlán Sololá",
+      "telefono": "77217919",
+      "email": "ponsetiadisa@gmail.com",
+      "logo": "entidades/adisa.png",
+      "categorias": ["fisica"]
+    },
+    {
+      "nombre": "AIDEPCE",
+      "direccion": "Barrio San Juan, zona 4, Cubulco, Baja Verapaz.",
+      "telefono": "79545261",
+      "email": "cubulcoaidepce@hotmail.com",
+      "logo": "entidades/aidepce.jpg",
+      "categorias": ["fisica"]
+    },
+    {
+      "nombre": "Asociacion Asperger Guatemala ",
+      "direccion": "5ta. Av. A 16-19 zona 11 Mixco. Colinas de Minerva (alquilado)",
+      "telefono": "47417916",
+      "email": "unaluzdeamorasperger@gmail.com",
+      "logo": "entidades/asociacion_asperger.jpg",
+      "categorias": ["cognitiva"]
+    },
+    {
+      "nombre": "Asociación De Capacitación Y Asistencia Técnica En Educación Y Discapacidad",
+      "direccion": "2da. Avenida 5-47 zona 1, Guatemala",
+      "telefono": "22200631",
+      "email": "ascated1@gmail.com",
+      "logo": "entidades/ascated.jpg",
+      "categorias": ["visual"]
+    },
+    {
+      "nombre": "Asociación de Padres y Amigos de Personas con Discapacidad que podrá abreviarse ASOPADIS",
+      "direccion": "Sector La Puerta Paraje Pacoc San Lucas Tolimán, 07013",
+      "telefono": "53286830",
+      "email": "rpasopadis@gmail.com",
+      "logo": "entidades/asopadis.png",
+      "categorias": ["fisica"]
+    },
+    {
+      "nombre": "Asociación Educativa para el Sordo (ASEDES)",
+      "direccion": "7a. Av 14-44 zona 9 Edificio la Galeria, oficina 1",
+      "telefono": "23312123",
+      "email": "info@asedesguatemala.org",
+      "logo": "entidades/asedes.png",
+      "categorias": ["auditiva"]
+    },
+    {
+      "nombre": "Asociación Grupo Ermita Alzheimer de Guatemala",
+      "direccion": "10 avenida A 1-48 zona 1",
+      "telefono": "22320324",
+      "email": "info@ermitaalzheimer.org.gt",
+      "logo": "entidades/grupo_ermita.png",
+      "categorias": ["cognitiva"]
+    },
+    {
+      "nombre": "Asociación Guatemalteca de Apoyo al Limitado Fisico",
+      "direccion": "Ciudad de Guatemala",
+      "telefono": "46525565",
+      "email": "agalfi@hotmail.com",
+      "logo": "entidades/agalfi.png",
+      "categorias": ["fisica"]
+    },
+    {
+      "nombre": "Asociación Guatemalteca de Esclerosis Múltiple",
+      "direccion": "21 calle \"C\" 14-74 zona 11 Col. Granai III, Guatemala City",
+      "telefono": "55943408",
+      "email": "asogemguatemala@gmail.com",
+      "logo": "entidades/asogem.png",
+      "categorias": ["fisica"]
+    },
+    {
+      "nombre": "Asociación Guatemalteca de Personas Con Discapacidad, AGPD \"Manuel Tot\" ONG.",
+      "direccion": "1era. avenida \"B\" 2-55 Zona 1, Barrio La Recolección.",
+      "telefono": "22538356",
+      "email": "agpdgua@gmail.com",
+      "logo": "entidades/agpd.png",
+      "categorias": ["fisica"]
+    },
+    {
+      "nombre": "Asociación Rompiendo Límites",
+      "direccion": "Jocotán, Chiquimula",
+      "telefono": "77260726",
+      "email": "asociacion@rompiendolimites.org.gt",
+      "logo": "entidades/asoro.png",
+      "categorias": ["fisica"]
+    },
+    {
+      "nombre": "Asociación Somos Hijos del Lago",
+      "direccion": "7ma calle, 07-66 zona 1, Cantón Pacuchá",
+      "telefono": "77218139",
+      "email": "somoshijosdellago@yahoo.com",
+      "logo": "entidades/sohilago.png",
+      "categorias": ["fisica","cognitiva"]
+    },
+    {
+      "nombre": "Asociacion Transiciones para personas con discapacidad",
+      "direccion": "Callejon Los Horcones No 48, San Felipe de Jesus, Antigua Gua",
+      "telefono": "78310779",
+      "email": "rebecca@transitionsfoundation.org",
+      "logo": "entidades/transiciones.png",
+      "categorias": ["fisica"]
+    },
+    {
+      "nombre": "ASORGUA - Asociación de Sordos de Guatemala",
+      "telefono": "22191538",
+      "email": "asorgua@gmail.com",
+      "logo": "entidades/asorgua.jpeg",
+      "categorias": ["auditiva"]
+    },
+    {
+      "nombre": "Beeline Wheelchairs",
+      "direccion": "Carretera Interamericana CA1 Km 40 entrada a Santo Domingo Xenacoj, Sacatepéquez,Guatemala",
+      "telefono": "30717584",
+      "email": "info@beelinewheelchairs.org",
+      "logo": "entidades/beeline.jpg",
+      "categorias": ["fisica"]
+    },
+    {
+      "nombre": "Benemérito Comité Pro-Ciegos y Sordos de Guatemala",
+      "direccion": "9 calle 3-07 zona 1, Ciudad de Guatemala",
+      "telefono": "23821800",
+      "email": "isantos@prociegosysordos.org.gt",
+      "logo": "entidades/pro-ciegos.png",
+      "categorias": ["visual"]
+    },
+    {
+      "nombre": "Bitol",
+      "direccion": "san miguel ixtahuacan",
+      "telefono": "50253483226",
+      "email": "bahrens3727@gmail.com",
+      "logo": "entidades/bitol.jpeg",
+      "categorias": ["fisica","cognitiva"]
+    },
+    {
+      "nombre": "Centro Educativo para Sordos",
+      "direccion": "Calle Real Residencial El Pedregal # 3 Jocotenango, Sacatepéquez",
+      "telefono": "45986417",
+      "email": "lavosi09@gmail.com",
+      "logo": "entidades/voces_del_silencio.jpeg",
+      "categorias": ["auditiva"]
+    },
+    {
+      "nombre": "Centro Maya Servicio Integral",
+      "direccion": "3ra. Avenida 3-36 zona 2 San Juan La Laguna Sololá",
+      "telefono": "78236510",
+      "email": "direccioncentromayasi@gmail.com",
+      "logo": "entidades/centro_maya.png",
+      "categorias": ["fisica"]
+    },
+    {
+      "nombre": "Centro Maya Servicio Integral",
+      "direccion": "Zona 2, Cantón Tzanjay, San Juan La Laguna Sololá",
+      "telefono": "78236510",
+      "email": "centromayasicoordinacion@gmail.com",
+      "logo": "entidades/centro_maya.png",
+      "categorias": ["fisica","cognitiva"]
+    },
+    {
+      "nombre": "Clínica Stela",
+      "direccion": "12 avenida 19-33 zona 7 de Mixco",
+      "telefono": "22157777",
+      "email": "guatemala@clinicastela.com",
+      "logo": "entidades/stela.jpeg",
+      "categorias": ["fisica"]
+    },
+    {
+      "nombre": "Corazones en Movimiento",
+      "direccion": "Teculután, Zacapa",
+      "telefono": "30812864",
+      "email": "yazmin@heartsinmotion.org",
+      "logo": "entidades/corazones_en_movimiento.jpeg",
+      "categorias": ["fisica"]
+    },
+    {
+      "nombre": "Escuela de Fisioterapia Universidad Mariano Gálvez de Guatemala",
+      "direccion": "7ma. calle 7-77 zona 2",
+      "telefono": "22541312",
+      "email": "guadalupe.lopez@umg.edu.gt",
+      "logo": "entidades/umg.jpeg",
+      "categorias": ["fisica"]
+    },
+    {
+      "nombre": "Fundaciòn Artes Muy Especiales",
+      "direccion": "5 calle 10-55 zona 13",
+      "telefono": "59501508",
+      "email": "artesmuyespeciales@gmmail.com",
+      "logo": "entidades/ame.jpg",
+      "categorias": ["fisica"]
+    },
+    {
+      "nombre": "Fundacion Margarita Tejada",
+      "direccion": "4 ave. 12-20 zona 16, Acatán",
+      "telefono": "22081999",
+      "email": "direccion21@fundacionmargaritatejada.org",
+      "logo": "entidades/margarita_tejada.png",
+      "categorias": ["cognitiva"]
+    },
+    {
+      "nombre": "FUNDAL: Fundación Alex",
+      "direccion": "1a calle y Carretera Interamericana 0-20 zona 1 de mixco, Guatemala",
+      "telefono": "24917878",
+      "email": "diana.bonilla@fundal.org.gt",
+      "logo": "entidades/fundal.png",
+      "categorias": ["fisica"]
+    },
+    {
+      "nombre": "Las voces del silencio LAVOSI",
+      "direccion": "10 calle 11-13 zona 3 de Mixco, Nueva Monteserrat",
+      "telefono": "22128818",
+      "email": "info@downguatemala.org",
+      "logo": "entidades/voces_del_silencio.jpeg",
+      "categorias": ["cognitiva"]
+    },
+    {
+      "nombre": "Obras Sociales del Santo Hermano Pedro",
+      "direccion": "6a. Calle Oriente No. 20, Antigua Guatemala",
+      "telefono": "79312100",
+      "email": "asociacion@obrashermanopedro.org",
+      "logo": "entidades/hermano_pedro.png",
+      "categorias": ["fisica"]
+    },
+    {
+      "nombre": "Range of Motion Project NFP",
+      "direccion": "1ra Calle, 25-62, Zona 15, Colonia Vista Hermosa 2. Ciudad de Guatemala",
+      "telefono": "30499471",
+      "email": "jose@rompglobal.org",
+      "logo": "entidades/romp.png",
+      "categorias": ["fisica"]
+    },
+    {
+      "nombre": "Visualiza",
+      "direccion": "4 avenida A 11-54 Zona 9",
+      "telefono": "24140900",
+      "email": "juan.yee@visualiza.org.gt",
+      "logo": "entidades/visualiza.png",
+      "categorias": ["visual"]
+    },
+    {
+      "nombre": "Centro de Aprendizaje y Rehabilitación Integral ARI",
+      "direccion": "Antigua Guatemala",
+      "telefono": "37428917",
+      "email": "cari.direccion@gmail.com",
+      "logo": "entidades/ari.jpg",
+      "categorias": ["fisica","cognitiva","visual","auditiva"]
+    },
+    {
+      "nombre": "Instituto Neurológico de Guatemala",
+      "direccion": "9a. avenida 5-51 zona 11 Col. Roosevelt",
+      "telefono": "24711613",
+      "email": "gestionlaboral@institutoneurologicodeguatemala.org",
+      "logo": "entidades/instituto_neurológico.jpg",
+      "categorias": ["cognitiva"]
+    }
+  ]
+
+

@@ -1,0 +1,336 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(39, 69, 249);
+    scroll-behavior: smooth;
+}
+
+ul{
+    list-style: none;
+    border-style: none;
+}
+
+li{
+    margin: 0.5rem 0 0.5rem 0.5rem;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+main{
+    background-color: white;
+}
+
+/* Estilo para el burguer menu */
+
+.off-screen-menu{
+    font-size: 0.9rem;
+    color: white;
+    position: fixed;
+    top: 2rem;
+    left: -15rem;
+    display: inline-block;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: -5rem;
+    transition: .3s ease;
+    width: 10rem;
+    height: 10.5rem;
+}
+
+.off-screen-menu.active{
+    left: 10rem;
+}
+
+.off-screen-menu ul li:hover {
+    cursor: pointer;
+    background-color: #ffc107;
+    border-radius: 2rem;
+    transition: 0.7s;
+}
+
+.ham-menu{
+    margin: 0;
+    height: 50px;
+    width: 50px;
+    margin-right: auto;
+    position: relative;
+}
+
+.ham-menu span{
+    height: 0.4rem;
+    width: 80%;
+    background-color: white;
+    border-radius: 25px;
+    position: absolute;
+    top: 50%;
+    left: 4rem;
+    margin-top: 2rem;
+    transform: translate(-50%, -50%);
+    transition: .3s ease;
+    cursor: pointer;
+}
+
+.ham-menu span:nth-child(1){
+    top: 25%;
+}
+
+.ham-menu span:nth-child(3){
+    top: 77%;
+}
+
+.ham-menu.active span:nth-child(1){
+    top: 50%;
+    transform: translate(-50%, -50%) rotate(45deg);
+}
+
+.ham-menu.active span:nth-child(2){
+    opacity: 0;
+}
+
+.ham-menu.active span:nth-child(3){
+    top: 50%;
+    transform: translate(-50%, -40%) rotate(-45deg);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 2%;
+    color: white;
+    font-weight: 700;
+    font-size: 3rem;
+    width: 100%;
+}
+
+.img-directorio {
+    width: 11%; /* Responsive width */
+    height: auto;
+    margin-left: 65%;
+    margin-top: -5%;
+}    
+
+.filter-container {
+    text-align: center;
+    background-color: #1a2165;
+    color: white;
+    font-size: 1rem;
+    padding-bottom: 1.5rem;
+}
+
+#boton-scroll{
+    position: fixed;
+    bottom: 1%;
+    right: -2%;
+    cursor: pointer;
+    transform: scale(0.4);
+    border: none;
+    background: none;
+}
+
+.info-filter{
+    font-weight: 700;
+    font-size: 1.5rem;
+    padding: 1.5rem;
+}
+
+.filter-container input {
+    margin: 0 10px;
+}
+
+/* Grid container */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 20px; /* Espaciado interno */
+    margin-bottom: 50px; /* Espaciado externo para evitar superposición con el footer */
+    background-color: white; /* Fondo por si hay contenido adicional */
+}
+
+/* Entity card */
+.grid-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-width: 250px; /* Ancho máximo */
+    height: 400px; /* Altura fija */
+    overflow: hidden; /* Evita desbordes */
+    padding: 1rem;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Efecto de hover */
+.grid-item:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+}
+
+.grid-item img {
+    width: 50%;
+    height: auto;
+    margin-bottom: 10px;
+    margin-left: 25%;
+}
+
+.grid-item h4 {
+    margin: 10px 0;
+    font-size: 1rem;
+    font-weight: 600;
+    text-align: center;
+}
+
+/* Prevent email overflow */
+.grid-item p {
+    margin: 5px 0;
+    font-size: 0.9rem;
+    word-wrap: break-word;   /* Ensures long words (like emails) break within boundaries */
+    overflow-wrap: break-word;
+}
+
+/* Email link styling */
+.grid-item a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.grid-item a:hover {
+    text-decoration: underline;
+}
+
+/* Media queries para responsive design */
+@media (max-width: 480px) {
+    li{
+        margin: 0.7rem;
+    }
+
+    .list-menu{
+        margin-top: 0.5rem;
+        font-size: 1.5rem;
+        font-weight: 700;
+    }
+    .ham-menu{
+        height: 1.5rem;
+        width: 3rem;
+    }
+    .ham-menu span{
+        height: 0.2rem;
+        width: 2rem;
+        left: 1.5rem;
+        margin-top: 0.7rem;
+    }
+    .off-screen-menu {
+        font-size: 0.8rem;
+        margin-left: 0.1rem;
+    }
+    .off-screen-menu.active{
+        left: 1.2rem;
+        top: 0.2rem;
+    }
+
+    h1{
+        font-size: 1.5rem;
+        width: 50%;
+        margin-left: 25%;
+        margin-top: 25%;
+    }
+
+    .img-directorio{
+        width: 25%;
+        margin-top: -15%;
+    }
+
+    #boton-scroll{
+        bottom: 1%;
+        right: -2%;
+    }
+
+    .info-filter{
+        font-size: 1.2rem;
+    }
+
+    .filter-container{
+        font-size: 0.8rem;
+    }
+
+    .button-return-home{
+        top: 2%;
+        right: 3%;
+        max-width: 15%;
+    }
+    
+  }
+
+/* Para móviles (max-width: 767px) */
+@media (max-width: 767px) {
+    .off-screen-menu.active{
+        left: 1.2rem;
+        top: 0.2rem;
+    }
+    .ham-menu span {
+        width: 50%; /* Ajustar el tamaño del menú hamburguesa en móviles */
+    }
+}
+
+/* Para tabletas (min-width: 768px y max-width: 1024px) */
+@media (min-width: 768px) and (max-width: 1024px) {
+
+    .list-menu{
+        margin-top: 2rem;
+    }
+
+    .off-screen-menu{
+        font-size: 1.1rem;
+        margin-left: -7rem;
+    }
+
+    .off-screen-menu.active{
+        left: 12rem;
+        top: 0.8rem;
+    }
+
+    h1{
+        margin-top: 11%;
+    }
+    .button-return-home{
+        top: 2%;
+    }
+    .off-screen-menu{
+        font-size: 1.1rem;
+        margin-left: -7rem;
+    }
+
+    .off-screen-menu.active{
+        left: 12rem;
+        top: 0.8rem;
+    }
+
+    ham-menu {
+        width: 8%;
+    }
+
+    .ham-menu span {
+        width: 70%; /* Ajustar el tamaño del menú hamburguesa */
+        left: 3rem;
+        margin-top: 1rem;
+    }
+}
+
+/* Para pantallas de escritorio (min-width: 1025px) */
+@media (min-width: 1025px) {
+    
+}
+
+.deficiencia-icono {
+    width: 20%; /* Ajusta según lo necesario */
+    height: auto;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,66 @@
+[
+    {
+        "nombre": "Entidad Física 1",
+        "direccion": "Calle Ejemplo 123",
+        "telefono": "123-456-7890",
+        "email": "contacto@entidadfisica1.com",
+        "logo": "logo1.png",
+        "categorias": ["fisica"]
+    },
+    {
+        "nombre": "Entidad Visual 1",
+        "direccion": "Calle Ejemplo 456",
+        "telefono": "234-567-8901",
+        "email": "contacto@entidadvisual1.com",
+        "logo": "logo2.png",
+        "categorias": ["visual"]
+    },
+    {
+        "nombre": "Entidad Auditiva 1",
+        "direccion": "Avenida Ejemplo 789",
+        "telefono": "345-678-9012",
+        "email": "contacto@entidadauditiva1.com",
+        "logo": "logo3.png",
+        "categorias": ["auditiva"]
+    },
+    {
+        "nombre": "Entidad Cognitiva 1",
+        "direccion": "Plaza Ejemplo 101",
+        "telefono": "456-789-0123",
+        "email": "contacto@entidadcognitiva1.com",
+        "logo": "logo4.png",
+        "categorias": ["cognitiva"]
+    },
+    {
+        "nombre": "Entidad Cognitiva 2",
+        "direccion": "Plaza Ejemplo 101",
+        "telefono": "456-789-0123",
+        "email": "contacto@entidadcognitiva1.com",
+        "logo": "logo4.png",
+        "categorias": ["cognitiva"]
+    },
+    {
+        "nombre": "Entidad Auditiva 2",
+        "direccion": "Avenida Ejemplo 789",
+        "telefono": "345-678-9012",
+        "email": "contacto@entidadauditiva1.com",
+        "logo": "logo3.png",
+        "categorias": ["auditiva"]
+    },
+    {
+        "nombre": "Entidad Física 2",
+        "direccion": "Calle Ejemplo 123",
+        "telefono": "123-456-7890",
+        "email": "contacto@entidadfisica1.com",
+        "logo": "logo1.png",
+        "categorias": ["fisica"]
+    },
+    {
+        "nombre": "Entidad Visual 2",
+        "direccion": "Calle Ejemplo 456",
+        "telefono": "234-567-8901",
+        "email": "contacto@entidadvisual1.com",
+        "logo": "logo2.png",
+        "categorias": ["visual"]
+    }
+]

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resultados</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="resultados.css">
+</head>
+<body>
+    <!-- Floating Burger Menu -->
+    <div class="off-screen-menu">
+        <ul>
+            <li>
+                <a href="index.html" class="no-style">Página Principal</a>
+            </li>
+            <li>
+                <a href="guia.html" class="no-style">Tipos de Deficiencias</a>
+            </li>
+            <li>
+                <a href="directorio.html" class="no-style">Directorio de Servicios</a>
+            </li>
+            <li>
+                <a href="tamizaje.html" class="no-style">Tamizaje</a>
+            </li>
+        </ul>
+    </div>      
+    <nav>
+        <div class="ham-menu">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </nav>
+
+    <h1>Resultados de la Búsqueda</h1>
+
+    <!-- Contenedor de los resultados -->
+    <main>
+        <div id="grid-container" class="grid-container"></div>
+    </main>
+
+
+<!-- Contenedor para las deficiencias -->
+<div id="deficiencias-container" class="deficiencias-container"></div>
+
+<!-- Botón para ver los centros de atención -->
+<button id="showCentersButton" class="button-print">Ver posibles centros de atención</button>
+
+
+<div id="centros-container" style="display: none;"></div>
+
+
+    <!-- Botones para imprimir y guardar PDF -->
+    <div class="button-container">
+        <button id="printButton" class="button-print">Imprimir</button>
+        <button id="pdfButton" class="button-print">Guardar como PDF</button>
+    </div>
+
+    <!-- Importar el script -->
+    <script src="resultados.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

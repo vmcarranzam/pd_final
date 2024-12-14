@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Directorio</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="directorio.css">
+</head>
+<body>
+    <body>
+        <!-- Floating Burger Menu -->
+        <div class="off-screen-menu">
+            <ul>
+                <li>
+                    <a href="index.html" class="no-style">Página Principal</a>
+                </li>
+                <li>
+                    <a href="guia.html" class="no-style">Tipos de Deficiencias</a>
+                </li>
+                <li>
+                    <a href="directorio.html" class="no-style">Directorio de Servicios</a>
+                </li>
+                <li>
+                    <a href="tamizaje.html" class="no-style">Tamizaje</a>
+                </li>
+            </ul>
+        </div>      
+        <nav>
+            <div class="ham-menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </nav>
+
+    <div class="header-container">
+        <h1>Directorio de Entidades</h1>
+        <img src="directorio.png" alt="imagen del directorio" class="img-directorio">
+    </div>
+    <!-- Contenedor de los filtros -->
+    <div class="filter-container">
+        <p class="info-filter">¿Dónde puedo buscar servicios dirigidos a mi deficiencia?</p>
+        <label>
+            <input type="checkbox" class="filter" value="fisica"> Física
+        </label>
+        <label>
+            <input type="checkbox" class="filter" value="visual"> Visual
+        </label>
+        <label>
+            <input type="checkbox" class="filter" value="auditiva"> Auditiva
+        </label>
+        <label>
+            <input type="checkbox" class="filter" value="cognitiva"> Cognitiva
+        </label>
+    </div>
+    <button id="boton-scroll">
+        <img src="flecha-arriba.png" alt="botón scroll">
+    </button>
+
+    <!-- Contenedor de la grid -->
+    <main>
+        <div id="grid-container" class="grid-container"></div>
+    </main>
+
+    <!-- Importar el script -->
+    <script src="directorio.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

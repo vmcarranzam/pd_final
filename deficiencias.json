@@ -1,0 +1,30 @@
+[
+    {
+      "nombre": "Deficiencias Físicas",
+      "descripcion": "Tener una deficiencia física significa tener dificultad en realizar actividades en su diario vivir",
+      "tag": "fisica",
+      "icon": "deficiencias/fisicas.png"
+
+    },
+    {
+      "nombre": "Deficiencias Auditivas",
+      "descripcion": "Tener una deficiencia auditiva significa tener dificultad en escuchar ruidos en su diario vivir.",
+      "tag": "auditiva",
+      "icon": "deficiencias/auditivas.png"
+
+    },
+    {
+      "nombre": "Deficiencias Visuales",
+      "descripcion": "Tener una deficiencia visual significa tener dificultad en ver las cosas en su diario vivir.",
+      "tag": "visual",
+      "icon": "deficiencias/visuales.png"
+
+    },
+    {
+      "nombre": "Deficiencias cognitivas, emocionales, y de desarrollo",
+      "descripcion": "Tener una deficiencia cognitiva, emocional, o de desarrollo significa tener dificultad en pensar, comportar, o desarrollar como los demás.",
+      "tag": "cognitiva",
+      "icon": "deficiencias/cognitivas.png"
+    }
+  ]
+ 
